@@ -36,7 +36,6 @@ LibraryManagementSystem/
 
 ## 📸 Screenshots
 
-> You can add terminal screenshots here to visually show:
 > - Menu-![image](https://github.com/user-attachments/assets/ebc16676-078f-49f4-a61f-a8a3900318f8)
 > - Book addition-![image](https://github.com/user-attachments/assets/aa90572b-95a2-428e-a095-402ee3a52348)
 > - Book issue/return-![image](https://github.com/user-attachments/assets/111c563b-5870-457b-98e8-d3026eabfead)
